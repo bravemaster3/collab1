@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print("Collab is cool")
+print("is cool")
